@@ -5,6 +5,8 @@ public class StudyMember {
 	public static void main(String[] args) {
 
   System.out.println("Hard study");
+  
+  System.out.println("YAAYYYY!!!!!");
 	}
 
 }
