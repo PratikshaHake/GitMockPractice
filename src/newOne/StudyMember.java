@@ -1,0 +1,10 @@
+package newOne;
+
+public class StudyMember {
+
+	public static void main(String[] args) {
+
+  System.out.println("Hard study");
+	}
+
+}
